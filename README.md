@@ -25,11 +25,11 @@
 ## Conclusions
 -  Variables like GrLivArea, OverallQual, MasVnrArea, KitchenQual, GarageCars, BsmtQual are significant predictor of the price.
 -  How well variables is related can be determine by correlation value which is calucated as below:
-  * GrLivArea with SalesPrice:0.7086244776126515
-  * OverAllQual with SalePrice:0.7909816005838053
-  * GarageCars with SalePrice:0.6404091972583519
-  * KitchenQual with SalesPrice:-0.589188778299423
-  * BsmtQual with SalePrice:-0.6208861300191687
+    * GrLivArea with SalesPrice:0.7086244776126515
+    * OverAllQual with SalePrice:0.7909816005838053
+    * GarageCars with SalePrice:0.6404091972583519
+    * KitchenQual with SalesPrice:-0.589188778299423
+    * BsmtQual with SalePrice:-0.6208861300191687
 -  Optimal value of lambda for ridge is 4 and lasso is 0.0001
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
@@ -45,7 +45,7 @@
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@kafee651] - feel free to contact me!
 
 
 <!-- Optional -->
